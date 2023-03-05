@@ -10,5 +10,5 @@
 
 I have tried to implement fetures as much as i can
 
-#please give it a star, will appreciate that
+# please give it a star, will appreciate that
 
